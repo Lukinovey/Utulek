@@ -1,0 +1,7 @@
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\bin\Debug\UtulekProZvirata.exe.config
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\bin\Debug\UtulekProZvirata.exe
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\bin\Debug\UtulekProZvirata.pdb
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\obj\Debug\UtulekProZvirata.csproj.AssemblyReference.cache
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\obj\Debug\UtulekProZvirata.csproj.CoreCompileInputs.cache
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\obj\Debug\UtulekProZvirata.exe
+C:\Users\59291brinzik\source\repos\UtulekProZvirata\UtulekProZvirata\obj\Debug\UtulekProZvirata.pdb
